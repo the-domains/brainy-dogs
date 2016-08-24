@@ -1,0 +1,28 @@
+name: Brainy Dogs
+favicon: null
+layout_spectrum: 0.5783230245579034
+typography_spectrum: 0.918167061638087
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.43704321957193315
+  lightness: 0.12412667297758162
+  saturation: 0.913528306176886
+  rhythmicContrast: 0.6768406999763101
+purpose: []
